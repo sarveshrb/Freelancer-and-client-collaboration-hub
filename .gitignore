@@ -1,0 +1,30 @@
+# Backend - Spring Boot
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Environment and config files
+application.properties
+application.yml
+.env
+
+# IDE settings
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+
+# Frontend - React
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# OS files
+.DS_Store
+Thumbs.db
